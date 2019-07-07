@@ -1,0 +1,14 @@
+canvas {
+  width: 500;
+  height: 500;
+  border: 1px solid red;
+}
+  
+.container {
+}
+
+.run {
+  position: absolute;
+  top: 10;
+  left: 10
+}
